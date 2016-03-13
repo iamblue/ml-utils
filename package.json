@@ -1,0 +1,13 @@
+{
+  "name": "ml-utils",
+  "version": "0.0.1",
+  "description": "",
+  "supportIC":[ "mt7687" ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iamblue",
+  "license": "ISC",
+  "dependencies": {}
+}
